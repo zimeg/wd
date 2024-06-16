@@ -1,0 +1,14 @@
+changelog:
+  exclude:
+    authors:
+      - github-actions[bot]
+  categories:
+    - title: Enhancements
+      labels:
+        - Enhancement
+    - title: Fixes
+      labels:
+        - Bug
+    - title: Other Improvements
+      labels:
+        - "*"
