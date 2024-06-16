@@ -1,5 +1,7 @@
 # wd
 
+warping.
+
 [![Build Status](https://github.com/mfaerevaag/wd/actions/workflows/test.yml/badge.svg)](https://github.com/mfaerevaag/wd/actions)
 
 `wd` (*warp directory*) lets you jump to custom directories in zsh, without using `cd`.
