@@ -38,5 +38,3 @@ jobs:
       - name: release latest
         run: |
           gh release create "v$VERSION" --generate-notes
-        env:
-          GH_TOKEN: ${{ github.token }}
