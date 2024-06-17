@@ -34,7 +34,7 @@ jobs:
           git add wd.1 wd.sh
           git commit -m "chore(update): bump current version to v$VERSION"
           git tag v$VERSION
-          git push -u origin master --tags
+          git push -u origin ci-release-fixes --tags
       - name: release latest
         run: |
           gh release create v$VERSION --generate-notes
