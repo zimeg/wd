@@ -8,7 +8,7 @@
 # @github.com/mfaerevaag/wd
 
 # version
-readonly WD_VERSION=1.2.9
+readonly WD_VERSION=1.2.17
 
 # colors
 readonly WD_BLUE="\033[96m"
