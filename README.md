@@ -1,6 +1,6 @@
 # wd
 
-warp. warp. warp.
+warp! warp! warp!
 
 [![Build Status](https://github.com/mfaerevaag/wd/actions/workflows/test.yml/badge.svg)](https://github.com/mfaerevaag/wd/actions)
 
